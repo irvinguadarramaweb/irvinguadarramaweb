@@ -13,7 +13,7 @@
 - <b>Information Technology Company</b>
   - [UI/UX Design, Domain Registration, Website Deployment](https://www.irvinguadarrama.com/case_studies/embee-technologies/)
 - <b> Cloud Hosting Company </b>
-  - [UI/UX Design](https://www.irvinguadarrama.com/case_studies/embee-technologies/)
+  - [UI/UX Design](https://github.com/irvinguadarramaweb/Cloud-Hosting-UI-UX-Design)
 
 <h2> 🤳 Connect with me:</h2>
 
